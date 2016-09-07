@@ -1,0 +1,20 @@
+Running with allimages1.dat
+Character wise model accuracy is 0.7083982049638246
+Word wise model accuracy is 0.3148994515539305
+Average dataset log-likelihood is -6.271855585866194
+Running with allimages2.dat
+Character wise model accuracy is 0.7072076197453979
+Word wise model accuracy is 0.3180987202925046
+Average dataset log-likelihood is -6.271302457853016
+Running with allimages3.dat
+Character wise model accuracy is 0.7062917849619929
+Word wise model accuracy is 0.3194698354661792
+Average dataset log-likelihood is -6.265056886438685
+Running with allimages4.dat
+Character wise model accuracy is 0.7077571206154409
+Word wise model accuracy is 0.31855575868372943
+Average dataset log-likelihood is -6.267929951027661
+Running with allimages5.dat
+Character wise model accuracy is 0.7106877919223372
+Word wise model accuracy is 0.33318098720292505
+Average dataset log-likelihood is -6.257888800554417
